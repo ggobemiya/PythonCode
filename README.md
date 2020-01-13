@@ -1,6 +1,5 @@
-echo "# PythonCode" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/ggobemiya/PythonCode.git
-git push -u origin master
+안녕하세요.
+
+2020/01/10 부터 codesigal 문제풀이를 시작하였고, 이곳에다가 업로드하도록 하겠습니다.
+
+md는 다루기 아직 어렵네요.
