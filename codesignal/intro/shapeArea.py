@@ -5,5 +5,5 @@ def shapeArea(n):
 # 수학문제. 등차수열, 등비수열
 
 # Codesignal>Arcade>Intro #5 Problem
-# This is not a good answer. But that's the answer I can give you now. 20/01/13
+# This is not a good answer. But that's the answer I can give you now. 20/01/14
 # When I finish all Arcade, I can give a good answer.
