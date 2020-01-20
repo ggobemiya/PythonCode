@@ -1,3 +1,7 @@
+# Codesignal>Arcade>Intro #18 Problem
+# This is not a good answer. But that's the answer I can give you now. 20/01/20
+# When I finish all Arcade, I can give a good answer.
+
 def palindromeRearranging(inputString):
     ans = False
     if len(inputString)==1:
