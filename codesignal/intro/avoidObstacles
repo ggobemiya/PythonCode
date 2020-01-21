@@ -1,0 +1,17 @@
+# Codesignal>Arcade>Intro #22 Problem
+# This is not a good answer. But that's the answer I can give you now. 20/01/21
+# When I finish all Arcade, I can give a good answer.
+
+
+def avoidObstacles(inputArray):
+    ans = 0
+    iA = []
+    for i in range(2,max(inputArray)+20):
+        for j in range(len(inputArray)):
+            iA.append(inputArray[j]%i)
+        if min(iA) != 0:
+            ans = i
+            break
+        else:
+            iA = []
+    return ans
